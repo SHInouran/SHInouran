@@ -1,4 +1,4 @@
-+# Herro ~🌻
+# Herro ~🌻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=My+Name+Is+Nourane...;Call+Me+NaN...;Always+Trying+new+things...;Using+knowledge+to+help+people!)](https://git.io/typing-svg)
 
@@ -23,4 +23,4 @@
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourane-bouchama-553966309/)
-[![Instgram]([https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Instgram&logoColor=white](https://img.shields.io/badge/Instgram-0077B5?style=for-the-badge&logo=Instgram&logoColor=white))](https://www.instagram.com/nrn_naan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nrn_naan/)
