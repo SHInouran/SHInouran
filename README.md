@@ -1,6 +1,6 @@
-# Herro ~🌻
++# Herro ~🌻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Staying+Alive;Always+Trying+new+things...;Using+knowledge+to+help+people!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=My+Name+Is+Nourane...;Call+Me+NaN...;Always+Trying+new+things...;Using+knowledge+to+help+people!)](https://git.io/typing-svg)
 
 ---
 
@@ -21,14 +21,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/nourane-bouchama-553966309/))
-[![Instgram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Instgram&logoColor=white)]([https://twitter.com/YOUR_TWITTER](https://www.instagram.com/nrn_naan/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourane-bouchama-553966309/)
+[![Instgram]([https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Instgram&logoColor=white](https://img.shields.io/badge/Instgram-0077B5?style=for-the-badge&logo=Instgram&logoColor=white))](https://www.instagram.com/nrn_naan/)
