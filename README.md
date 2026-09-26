@@ -1,14 +1,14 @@
-# Hi there, I'm [Your Name] 👋
+# Herro ~🌻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Always+learning+new+things...;Building+cool+projects...;Using+knowledge+to+help+people!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Staying+Alive;Always+Trying+new+things...;Using+knowledge+to+help+people!)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 About Me
-- 🔭 **Currently working on:** [Name/Type of Project]
-- 🌱 **Currently learning:** [Language/Framework, e.g., React, Python, Docker]
-- 💡 **Passionate about:** Discovering new technologies and building tools that make a difference.
-- 💬 **Ask me about:** [Your favorite topic, e.g., JavaScript, Web Dev, Linux]
+### About Me
+- **Currently studying:** 5th year as a Datascientist and AI Engineer.
+- **Currently Looking for:** A new research question
+- **Passionate about:** discovering new things, exploring how technologies actually work, search deeply to understand better.
+- **FanFacts:** I am actually also a digital artist and animator , hopfully i will try to merge this hobby to build pretty things.
 
 ---
 
@@ -30,6 +30,5 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR_WEBSITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/nourane-bouchama-553966309/))
+[![Instgram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Instgram&logoColor=white)]([https://twitter.com/YOUR_TWITTER](https://www.instagram.com/nrn_naan/))
